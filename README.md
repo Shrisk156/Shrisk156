@@ -1,4 +1,4 @@
-# Hi there, I'm Shrish Kulkarni! 👋
+# Hi there, I'm Shrisha Kulkarni! 👋
 
 **Computer Science Student at University of Colorado Boulder | Expected May 2025**
 
