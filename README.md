@@ -10,7 +10,10 @@
 
 ### 🚀 About Me
 
-I'm a passionate **Data Architect** and **Software Engineer** focused on building scalable, user-centric applications. Currently pursuing masters in Computer Science at the **University of Colorado Boulder** (Expected May 2027).
+I'm a passionate **Data Architect** and **Software Engineer experienced in backend development, distributed systems, and cloud-native
+platforms. Skilled in building scalable APIs, data pipelines, and microservices using Python, SQL, and the MERN stack. Proven
+experience designing reliable backend systems, optimizing performance, and deploying production applications across AWS and
+containerized environments.** (Expected grad May 2027).
 
 ---
 
