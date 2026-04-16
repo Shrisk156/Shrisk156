@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** and **Software Engineer** focused on building scalable, user-centric applications. Currently pursuing my M.S. in Computer Science at the **University of Colorado Boulder** (Expected May 2027).
+I'm a passionate **Data Architect** and **Software Engineer** focused on building scalable, user-centric applications. Currently pursuing masters in Computer Science at the **University of Colorado Boulder** (Expected May 2027).
 
 ---
 
